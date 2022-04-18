@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey Strelets</h1>
-<h3 align="center">A Java backend developer from Russia</h3>
+<h3 align="center">A Java backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streletsa&label=Profile%20views&color=0e75b6&style=flat" alt="streletsa" /> </p>
 
