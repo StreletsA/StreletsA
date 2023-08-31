@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=streletsa&label=Profile%20views&color=0e75b6&style=flat" alt="streletsa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=streletsa](https://github-profile-trophy.vercel.app/?username=streletsa&title=MultiLanguage,Followers,Joined2020,Repositories,Commits,PullRequest)" alt="streletsa" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=streletsa](https://github-profile-trophy.vercel.app/?username=streletsa)" alt="streletsa" /></a> </p>
 
 - 💬 Ask me about **Java, C++, Python, Spring Framework, Quarkus, Microservices, ...**
 
